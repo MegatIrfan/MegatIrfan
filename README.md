@@ -1,4 +1,4 @@
-[![MasterHead](https://megatirfan.com/banner.jpg)](https://megatirfan.com)
+[![MasterHead](https://megatirfan.com/banner2.jpg)](https://megatirfan.com)
 <h1 align="center">Hi 👋, I'm Megat Irfan</h1>
 <h3 align="center">A Passionate Web Developer & UI/UX Designer in Malaysia.</h3>
 

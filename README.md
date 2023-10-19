@@ -1,4 +1,4 @@
-[![MasterHead](https://megatirfan.com/jpg.jpg)])(https://megatirfan.com)
+[![MasterHead](https://megatirfan.com/jpg.jpg)](https://megatirfan.com)
 <h1 align="center">Hi 👋, I'm Megat Irfan</h1>
 <h3 align="center">A Passionate Web Developer & Photographer in Malaysia.</h3>
 

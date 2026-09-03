@@ -58,10 +58,12 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=megatirfan&show_icons=true&locale=en&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=A78BFA&text_color=c9c9c9&border_radius=12" />
 <img height="165" src="https://streak-stats.demolab.com?user=megatirfan&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=8f8f8f&border=00000000&border_radius=12" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=megatirfan&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=c9c9c9&border_radius=12" alt="megatirfan" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=megatirfan&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="megatirfan top languages" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=megatirfan&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&row=1" alt="trophies" />
+</div>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=megatirfan&theme=react-dark&hide_border=true&bg_color=00000000&color=A78BFA&line=8B5CF6&point=ffffff" alt="activity graph" width="100%" />
 </div>
 
 <div align="center">

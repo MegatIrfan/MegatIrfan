@@ -94,7 +94,34 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake contribution graph" width="100%" />
+
+<details>
+<summary><b>🔽 Click to see what I'm currently exploring</b></summary>
+<br/>
+
+- 🧩 Deep-diving into **Next.js App Router** & server components
+- 🎨 Exploring motion/animation libraries for smoother UI
+- 📸 Editing a new photography portfolio series
+- 🧠 Brushing up on system design fundamentals
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>📌 Click to see my current focus & goals</b></summary>
+<br/>
+
+```txt
+🎯 2026 Goals
+├── Ship 3 personal full-stack projects
+├── Contribute to an open-source repo
+├── Level up React + Next.js skills
+└── Grow photography portfolio
+```
+
+</details>
+
 </div>
 
 ---

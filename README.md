@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=megatirfan&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=megatirfan&theme=radical&margin-w=10&margin-h=10&column=4&row=1" alt="trophies" />
 </div>
 
 <div align="center">
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=megatirfan&color=8b5cf6&style=flat-square&label=Profile+Views)
+<img src="https://img.shields.io/badge/Profile%20Views-1000%2B-8B5CF6?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Profile Views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer" width="100%"/>
 

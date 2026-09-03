@@ -8,7 +8,7 @@
 
 ### 🚀 Passionate Web Developer & Photographer crafting things for the web 🇲🇾
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+clean%2C+modern+web+experiences;Always+learning+something+new;Framing+the+world+one+shot+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+clean%2C+modern+web+experiences;Always+learning+something+new;Framing+the+world+one+shot+at+a+time" alt="Typing SVG" />
 
 </div>
 
@@ -46,7 +46,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=android,bootstrap,cpp,gcp,git,html,java,js,mysql,php,python,sass,tailwind,ai,ps" />
+<img src="https://skillicons.dev/icons?i=android,bootstrap,cpp,gcp,git,html,java,js,react,nextjs,mysql,php,python,sass,tailwind,ai,ps" />
 </p>
 
 ---
@@ -55,11 +55,17 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=megatirfan&show_icons=true&locale=en&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=megatirfan&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=megatirfan&show_icons=true&locale=en&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=A78BFA&text_color=c9c9c9&border_radius=12" />
+<img height="165" src="https://streak-stats.demolab.com?user=megatirfan&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=8f8f8f&border=00000000&border_radius=12" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=megatirfan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="megatirfan" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=megatirfan&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=c9c9c9&border_radius=12" alt="megatirfan" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=megatirfan&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&row=1" alt="trophies" />
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake contribution graph" width="100%" />
 </div>
 
 ---

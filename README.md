@@ -55,10 +55,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=megatirfan&show_icons=true&locale=en&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=A78BFA&text_color=c9c9c9&border_radius=12" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=megatirfan&show_icons=true&locale=en&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=A78BFA&text_color=c9c9c9&border_radius=12" />
 <img height="165" src="https://streak-stats.demolab.com?user=megatirfan&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=8f8f8f&border=00000000&border_radius=12" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=megatirfan&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="megatirfan top languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=megatirfan&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="megatirfan top languages" />
 
 </div>
 

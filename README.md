@@ -1,10 +1,10 @@
 <div align="center">
 
-
-
 <a href="https://megatirfan.com">
-  <img src="https://megatirfan.com/wp-content/uploads/2024/01/ME.jpg" width="100%" style="border-radius:50%;" alt="Megat Irfan"/>
+  <img src="https://megatirfan.com/wp-content/uploads/2024/01/ME.jpg" width="100%" style="border-radius:12px; object-fit:cover; max-height:320px;" alt="Megat Irfan"/>
 </a>
+
+# Hi there, I'm Megat Irfan 👋
 
 ### 🚀 Passionate Web Developer & Photographer crafting things for the web 🇲🇾
 
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=megatirfan&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=megatirfan&show_icons=true&locale=en&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://streak-stats.demolab.com?user=megatirfan&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=megatirfan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="megatirfan" />

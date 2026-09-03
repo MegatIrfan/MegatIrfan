@@ -56,7 +56,7 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=megatirfan&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=megatirfan&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com?user=megatirfan&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=megatirfan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="megatirfan" />
 

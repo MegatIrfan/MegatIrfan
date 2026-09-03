@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=220&section=header&text=Hi%20there,%20I'm%20Megat%20Irfan%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Photographer%20%7C%20Based%20in%20Malaysia&descAlignY=55&descSize=18" width="100%"/>
+
 
 <a href="https://megatirfan.com">
-  <img src="https://megatirfan.com/wp-content/uploads/2024/01/ME.jpg" width="150" style="border-radius:50%;" alt="Megat Irfan"/>
+  <img src="https://megatirfan.com/wp-content/uploads/2024/01/ME.jpg" width="100%" style="border-radius:50%;" alt="Megat Irfan"/>
 </a>
 
 ### 🚀 Passionate Web Developer & Photographer crafting things for the web 🇲🇾

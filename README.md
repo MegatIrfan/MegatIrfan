@@ -1,22 +1,73 @@
-[![MasterHead](https://megatirfan.com/wp-content/uploads/2024/01/ME.jpg)](https://megatirfan.com)
-<h1 align="center">Hi 👋, I'm Megat Irfan</h1>
-<h3 align="center">A Passionate Web Developer & Photographer in Malaysia.</h3>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=220&section=header&text=Hi%20there,%20I'm%20Megat%20Irfan%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Photographer%20%7C%20Based%20in%20Malaysia&descAlignY=55&descSize=18" width="100%"/>
 
+<a href="https://megatirfan.com">
+  <img src="https://megatirfan.com/wp-content/uploads/2024/01/ME.jpg" width="150" style="border-radius:50%;" alt="Megat Irfan"/>
+</a>
 
-- 🔭 I’m currently working as Web Developer)
+### 🚀 Passionate Web Developer & Photographer crafting things for the web 🇲🇾
 
-- 👨‍💻 All of my projects are available at [https://github.com/MegatIrfan](https://github.com/MegatIrfan)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+clean%2C+modern+web+experiences;Always+learning+something+new;Framing+the+world+one+shot+at+a+time" alt="Typing SVG" />
 
-- 📫 How to reach me **work@megatirfan.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🌱 About Me
+
+- 🔭 Currently working as a **Web Developer**
+- 💻 All my projects live on [github.com/MegatIrfan](https://github.com/MegatIrfan)
+- 📸 When I'm not coding, you'll find me behind a camera
+- 📫 Reach me at **work@megatirfan.com**
+- ⚡ Fun fact: I enjoy turning ideas into pixel-perfect interfaces
+
+---
+
+### 🔗 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/megat-irfan-imanudin-8a1853159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="megat-irfan-imanudin-8a1853159" height="30" width="40" /></a>
-<a href="https://instagram.com/irfanncc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irfanncc_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/megat-irfan-imanudin-8a1853159" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/irfanncc_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:work@megatirfan.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://megatirfan.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=megatirfan&show_icons=true&locale=en&layout=compact" alt="megatirfan" /></p>
+### 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=android,bootstrap,cpp,gcp,git,html,java,js,mysql,php,python,sass,tailwind,ai,ps" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=megatirfan&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=megatirfan&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=megatirfan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="megatirfan" />
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=megatirfan&color=8b5cf6&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer" width="100%"/>
+
+</div>

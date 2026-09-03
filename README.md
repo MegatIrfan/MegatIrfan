@@ -63,7 +63,34 @@
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy-winning.vercel.app/?username=megatirfan&theme=radical&margin-w=10&margin-h=10&column=4&row=1" alt="trophies" />
+
+### 🏆 Achievements
+
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/-🦈-8B5CF6?style=for-the-badge" width="60"/><br/>
+<b>Pull Shark</b><br/>
+<sub>Merged PRs</sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/-⚡-6366F1?style=for-the-badge" width="60"/><br/>
+<b>Quickdraw</b><br/>
+<sub>Fast issue/PR close</sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/-🧠-A78BFA?style=for-the-badge" width="60"/><br/>
+<b>Galaxy Brain</b><br/>
+<sub>Accepted answers</sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/-🔥-7C3AED?style=for-the-badge" width="60"/><br/>
+<b>Pair Extraordinaire</b><br/>
+<sub>Co-authored commits</sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
@@ -74,7 +101,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=megatirfan&color=8b5cf6&style=for-the-badge&label=Profile+Views)
+<img src="https://img.shields.io/badge/Profile%20Views-1441-8b5cf6?style=for-the-badge" alt="Profile Views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer" width="100%"/>
 

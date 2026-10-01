@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://megatirfan.com">
-  <img src="https://megatirfan.com/wp-content/uploads/2024/01/ME.jpg" width="100%" style="border-radius:12px; object-fit:cover; max-height:320px;" alt="Megat Irfan"/>
+<a href="https://megatirfan.vercel.app">
+  <img src="https://megatirfan.vercel.app/images/bg.jpg" width="100%" style="border-radius:12px; object-fit:cover; max-height:320px;" alt="Megat Irfan"/>
 </a>
 
 # Hi there, I'm Megat Irfan 👋

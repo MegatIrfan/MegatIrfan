@@ -36,7 +36,7 @@
 <a href="mailto:work@megatirfan.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://megatirfan.com" target="_blank">
+<a href="https://megatirfan.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 </p>
